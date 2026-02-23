@@ -61,6 +61,9 @@ Open the project folder.
 Double click on index.html
 OR
 Open with Live Server in VS Code.
+OR
+# To View Project Directly use this link :
+https://codemanav16.github.io/To-Do-List-App/
 
 📌 Author
 
